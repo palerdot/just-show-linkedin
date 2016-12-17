@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Just Show LinkedIn",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Removes the modal screen and enables profile scrolling for non loggedin linkedin users",
+    "description": "The description of the application"
+  }
+}
